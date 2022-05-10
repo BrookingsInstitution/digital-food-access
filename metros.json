@@ -1,0 +1,952 @@
+[
+  {
+    "code": 10420,
+    "name": "Akron, OH",
+    "size": "large"
+  },
+  {
+    "code": 10580,
+    "name": "Albany-Schenectady-Troy, NY",
+    "size": "large"
+  },
+  {
+    "code": 10740,
+    "name": "Albuquerque, NM",
+    "size": "large"
+  },
+  {
+    "code": 10900,
+    "name": "Allentown-Bethlehem-Easton, PA-NJ",
+    "size": "large"
+  },
+  {
+    "code": 11100,
+    "name": "Amarillo, TX",
+    "size": "midsized"
+  },
+  {
+    "code": 11260,
+    "name": "Anchorage, AK",
+    "size": "midsized"
+  },
+  {
+    "code": 11460,
+    "name": "Ann Arbor, MI",
+    "size": "midsized"
+  },
+  {
+    "code": 11700,
+    "name": "Asheville, NC",
+    "size": "midsized"
+  },
+  {
+    "code": 12060,
+    "name": "Atlanta-Sandy Springs-Alpharetta, GA",
+    "size": "very large"
+  },
+  {
+    "code": 12100,
+    "name": "Atlantic City-Hammonton, NJ",
+    "size": "midsized"
+  },
+  {
+    "code": 12260,
+    "name": "Augusta-Richmond County, GA-SC",
+    "size": "large"
+  },
+  {
+    "code": 12420,
+    "name": "Austin-Round Rock-Georgetown, TX",
+    "size": "very large"
+  },
+  {
+    "code": 12540,
+    "name": "Bakersfield, CA",
+    "size": "large"
+  },
+  {
+    "code": 12580,
+    "name": "Baltimore-Columbia-Towson, MD",
+    "size": "very large"
+  },
+  {
+    "code": 12940,
+    "name": "Baton Rouge, LA",
+    "size": "large"
+  },
+  {
+    "code": 13140,
+    "name": "Beaumont-Port Arthur, TX",
+    "size": "midsized"
+  },
+  {
+    "code": 13820,
+    "name": "Birmingham-Hoover, AL",
+    "size": "very large"
+  },
+  {
+    "code": 14260,
+    "name": "Boise City, ID",
+    "size": "large"
+  },
+  {
+    "code": 14460,
+    "name": "Boston-Cambridge-Newton, MA-NH",
+    "size": "very large"
+  },
+  {
+    "code": 14500,
+    "name": "Boulder, CO",
+    "size": "midsized"
+  },
+  {
+    "code": 14740,
+    "name": "Bremerton-Silverdale-Port Orchard, WA",
+    "size": "midsized"
+  },
+  {
+    "code": 14860,
+    "name": "Bridgeport-Stamford-Norwalk, CT",
+    "size": "large"
+  },
+  {
+    "code": 15180,
+    "name": "Brownsville-Harlingen, TX",
+    "size": "midsized"
+  },
+  {
+    "code": 15380,
+    "name": "Buffalo-Cheektowaga, NY",
+    "size": "very large"
+  },
+  {
+    "code": 15940,
+    "name": "Canton-Massillon, OH",
+    "size": "midsized"
+  },
+  {
+    "code": 15980,
+    "name": "Cape Coral-Fort Myers, FL",
+    "size": "large"
+  },
+  {
+    "code": 16300,
+    "name": "Cedar Rapids, IA",
+    "size": "midsized"
+  },
+  {
+    "code": 16700,
+    "name": "Charleston-North Charleston, SC",
+    "size": "large"
+  },
+  {
+    "code": 16620,
+    "name": "Charleston, WV",
+    "size": "midsized"
+  },
+  {
+    "code": 16740,
+    "name": "Charlotte-Concord-Gastonia, NC-SC",
+    "size": "very large"
+  },
+  {
+    "code": 16860,
+    "name": "Chattanooga, TN-GA",
+    "size": "large"
+  },
+  {
+    "code": 16980,
+    "name": "Chicago-Naperville-Elgin, IL-IN-WI",
+    "size": "very large"
+  },
+  {
+    "code": 17140,
+    "name": "Cincinnati, OH-KY-IN",
+    "size": "very large"
+  },
+  {
+    "code": 17300,
+    "name": "Clarksville, TN-KY",
+    "size": "midsized"
+  },
+  {
+    "code": 17460,
+    "name": "Cleveland-Elyria, OH",
+    "size": "very large"
+  },
+  {
+    "code": 17780,
+    "name": "College Station-Bryan, TX",
+    "size": "midsized"
+  },
+  {
+    "code": 17820,
+    "name": "Colorado Springs, CO",
+    "size": "large"
+  },
+  {
+    "code": 17900,
+    "name": "Columbia, SC",
+    "size": "large"
+  },
+  {
+    "code": 17980,
+    "name": "Columbus, GA-AL",
+    "size": "midsized"
+  },
+  {
+    "code": 18140,
+    "name": "Columbus, OH",
+    "size": "very large"
+  },
+  {
+    "code": 18580,
+    "name": "Corpus Christi, TX",
+    "size": "midsized"
+  },
+  {
+    "code": 18880,
+    "name": "Crestview-Fort Walton Beach-Destin, FL",
+    "size": "midsized"
+  },
+  {
+    "code": 19100,
+    "name": "Dallas-Fort Worth-Arlington, TX",
+    "size": "very large"
+  },
+  {
+    "code": 19340,
+    "name": "Davenport-Moline-Rock Island, IA-IL",
+    "size": "midsized"
+  },
+  {
+    "code": 19430,
+    "name": "Dayton-Kettering, OH",
+    "size": "large"
+  },
+  {
+    "code": 19660,
+    "name": "Deltona-Daytona Beach-Ormond Beach, FL",
+    "size": "large"
+  },
+  {
+    "code": 19740,
+    "name": "Denver-Aurora-Lakewood, CO",
+    "size": "very large"
+  },
+  {
+    "code": 19780,
+    "name": "Des Moines-West Des Moines, IA",
+    "size": "large"
+  },
+  {
+    "code": 19820,
+    "name": "Detroit-Warren-Dearborn, MI",
+    "size": "very large"
+  },
+  {
+    "code": 20260,
+    "name": "Duluth, MN-WI",
+    "size": "midsized"
+  },
+  {
+    "code": 20500,
+    "name": "Durham-Chapel Hill, NC",
+    "size": "large"
+  },
+  {
+    "code": 21340,
+    "name": "El Paso, TX",
+    "size": "large"
+  },
+  {
+    "code": 21500,
+    "name": "Erie, PA",
+    "size": "midsized"
+  },
+  {
+    "code": 21660,
+    "name": "Eugene-Springfield, OR",
+    "size": "midsized"
+  },
+  {
+    "code": 21780,
+    "name": "Evansville, IN-KY",
+    "size": "midsized"
+  },
+  {
+    "code": 22220,
+    "name": "Fayetteville-Springdale-Rogers, AR",
+    "size": "large"
+  },
+  {
+    "code": 22180,
+    "name": "Fayetteville, NC",
+    "size": "large"
+  },
+  {
+    "code": 22420,
+    "name": "Flint, MI",
+    "size": "midsized"
+  },
+  {
+    "code": 22660,
+    "name": "Fort Collins, CO",
+    "size": "midsized"
+  },
+  {
+    "code": 23060,
+    "name": "Fort Wayne, IN",
+    "size": "midsized"
+  },
+  {
+    "code": 23420,
+    "name": "Fresno, CA",
+    "size": "large"
+  },
+  {
+    "code": 23540,
+    "name": "Gainesville, FL",
+    "size": "midsized"
+  },
+  {
+    "code": 24340,
+    "name": "Grand Rapids-Kentwood, MI",
+    "size": "very large"
+  },
+  {
+    "code": 24540,
+    "name": "Greeley, CO",
+    "size": "midsized"
+  },
+  {
+    "code": 24580,
+    "name": "Green Bay, WI",
+    "size": "midsized"
+  },
+  {
+    "code": 24660,
+    "name": "Greensboro-High Point, NC",
+    "size": "large"
+  },
+  {
+    "code": 24860,
+    "name": "Greenville-Anderson, SC",
+    "size": "large"
+  },
+  {
+    "code": 25060,
+    "name": "Gulfport-Biloxi, MS",
+    "size": "midsized"
+  },
+  {
+    "code": 25180,
+    "name": "Hagerstown-Martinsburg, MD-WV",
+    "size": "midsized"
+  },
+  {
+    "code": 25420,
+    "name": "Harrisburg-Carlisle, PA",
+    "size": "large"
+  },
+  {
+    "code": 25540,
+    "name": "Hartford-East Hartford-Middletown, CT",
+    "size": "very large"
+  },
+  {
+    "code": 25860,
+    "name": "Hickory-Lenoir-Morganton, NC",
+    "size": "midsized"
+  },
+  {
+    "code": 26420,
+    "name": "Houston-The Woodlands-Sugar Land, TX",
+    "size": "very large"
+  },
+  {
+    "code": 26580,
+    "name": "Huntington-Ashland, WV-KY-OH",
+    "size": "midsized"
+  },
+  {
+    "code": 26620,
+    "name": "Huntsville, AL",
+    "size": "midsized"
+  },
+  {
+    "code": 26900,
+    "name": "Indianapolis-Carmel-Anderson, IN",
+    "size": "very large"
+  },
+  {
+    "code": 27140,
+    "name": "Jackson, MS",
+    "size": "large"
+  },
+  {
+    "code": 27260,
+    "name": "Jacksonville, FL",
+    "size": "very large"
+  },
+  {
+    "code": 28020,
+    "name": "Kalamazoo-Portage, MI",
+    "size": "midsized"
+  },
+  {
+    "code": 28140,
+    "name": "Kansas City, MO-KS",
+    "size": "very large"
+  },
+  {
+    "code": 28420,
+    "name": "Kennewick-Richland, WA",
+    "size": "midsized"
+  },
+  {
+    "code": 28660,
+    "name": "Killeen-Temple, TX",
+    "size": "midsized"
+  },
+  {
+    "code": 28700,
+    "name": "Kingsport-Bristol, TN-VA",
+    "size": "midsized"
+  },
+  {
+    "code": 28940,
+    "name": "Knoxville, TN",
+    "size": "large"
+  },
+  {
+    "code": 29180,
+    "name": "Lafayette, LA",
+    "size": "midsized"
+  },
+  {
+    "code": 29460,
+    "name": "Lakeland-Winter Haven, FL",
+    "size": "large"
+  },
+  {
+    "code": 29540,
+    "name": "Lancaster, PA",
+    "size": "large"
+  },
+  {
+    "code": 29620,
+    "name": "Lansing-East Lansing, MI",
+    "size": "large"
+  },
+  {
+    "code": 29700,
+    "name": "Laredo, TX",
+    "size": "midsized"
+  },
+  {
+    "code": 29820,
+    "name": "Las Vegas-Henderson-Paradise, NV",
+    "size": "very large"
+  },
+  {
+    "code": 30460,
+    "name": "Lexington-Fayette, KY",
+    "size": "large"
+  },
+  {
+    "code": 30700,
+    "name": "Lincoln, NE",
+    "size": "midsized"
+  },
+  {
+    "code": 30780,
+    "name": "Little Rock-North Little Rock-Conway, AR",
+    "size": "large"
+  },
+  {
+    "code": 30980,
+    "name": "Longview, TX",
+    "size": "midsized"
+  },
+  {
+    "code": 31080,
+    "name": "Los Angeles-Long Beach-Anaheim, CA",
+    "size": "very large"
+  },
+  {
+    "code": 31140,
+    "name": "Louisville/Jefferson County, KY-IN",
+    "size": "very large"
+  },
+  {
+    "code": 31180,
+    "name": "Lubbock, TX",
+    "size": "midsized"
+  },
+  {
+    "code": 31340,
+    "name": "Lynchburg, VA",
+    "size": "midsized"
+  },
+  {
+    "code": 31540,
+    "name": "Madison, WI",
+    "size": "large"
+  },
+  {
+    "code": 31700,
+    "name": "Manchester-Nashua, NH",
+    "size": "midsized"
+  },
+  {
+    "code": 32580,
+    "name": "McAllen-Edinburg-Mission, TX",
+    "size": "large"
+  },
+  {
+    "code": 32820,
+    "name": "Memphis, TN-MS-AR",
+    "size": "very large"
+  },
+  {
+    "code": 32900,
+    "name": "Merced, CA",
+    "size": "midsized"
+  },
+  {
+    "code": 33100,
+    "name": "Miami-Fort Lauderdale-Pompano Beach, FL",
+    "size": "very large"
+  },
+  {
+    "code": 33340,
+    "name": "Milwaukee-Waukesha, WI",
+    "size": "very large"
+  },
+  {
+    "code": 33460,
+    "name": "Minneapolis-St. Paul-Bloomington, MN-WI",
+    "size": "very large"
+  },
+  {
+    "code": 33660,
+    "name": "Mobile, AL",
+    "size": "midsized"
+  },
+  {
+    "code": 33700,
+    "name": "Modesto, CA",
+    "size": "large"
+  },
+  {
+    "code": 33860,
+    "name": "Montgomery, AL",
+    "size": "midsized"
+  },
+  {
+    "code": 34820,
+    "name": "Myrtle Beach-Conway-North Myrtle Beach, SC-NC",
+    "size": "midsized"
+  },
+  {
+    "code": 34940,
+    "name": "Naples-Marco Island, FL",
+    "size": "midsized"
+  },
+  {
+    "code": 34980,
+    "name": "Nashville-Davidson--Murfreesboro--Franklin, TN",
+    "size": "very large"
+  },
+  {
+    "code": 35300,
+    "name": "New Haven-Milford, CT",
+    "size": "large"
+  },
+  {
+    "code": 35380,
+    "name": "New Orleans-Metairie, LA",
+    "size": "very large"
+  },
+  {
+    "code": 35620,
+    "name": "New York-Newark-Jersey City, NY-NJ-PA",
+    "size": "very large"
+  },
+  {
+    "code": 35840,
+    "name": "North Port-Sarasota-Bradenton, FL",
+    "size": "large"
+  },
+  {
+    "code": 35980,
+    "name": "Norwich-New London, CT",
+    "size": "midsized"
+  },
+  {
+    "code": 36100,
+    "name": "Ocala, FL",
+    "size": "midsized"
+  },
+  {
+    "code": 36260,
+    "name": "Ogden-Clearfield, UT",
+    "size": "large"
+  },
+  {
+    "code": 36420,
+    "name": "Oklahoma City, OK",
+    "size": "very large"
+  },
+  {
+    "code": 36500,
+    "name": "Olympia-Lacey-Tumwater, WA",
+    "size": "midsized"
+  },
+  {
+    "code": 36540,
+    "name": "Omaha-Council Bluffs, NE-IA",
+    "size": "large"
+  },
+  {
+    "code": 36740,
+    "name": "Orlando-Kissimmee-Sanford, FL",
+    "size": "very large"
+  },
+  {
+    "code": 37100,
+    "name": "Oxnard-Thousand Oaks-Ventura, CA",
+    "size": "large"
+  },
+  {
+    "code": 37340,
+    "name": "Palm Bay-Melbourne-Titusville, FL",
+    "size": "large"
+  },
+  {
+    "code": 37860,
+    "name": "Pensacola-Ferry Pass-Brent, FL",
+    "size": "midsized"
+  },
+  {
+    "code": 37900,
+    "name": "Peoria, IL",
+    "size": "midsized"
+  },
+  {
+    "code": 37980,
+    "name": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
+    "size": "very large"
+  },
+  {
+    "code": 38060,
+    "name": "Phoenix-Mesa-Chandler, AZ",
+    "size": "very large"
+  },
+  {
+    "code": 38300,
+    "name": "Pittsburgh, PA",
+    "size": "very large"
+  },
+  {
+    "code": 38940,
+    "name": "Port St. Lucie, FL",
+    "size": "midsized"
+  },
+  {
+    "code": 38860,
+    "name": "Portland-South Portland, ME",
+    "size": "large"
+  },
+  {
+    "code": 38900,
+    "name": "Portland-Vancouver-Hillsboro, OR-WA",
+    "size": "very large"
+  },
+  {
+    "code": 39100,
+    "name": "Poughkeepsie-Newburgh-Middletown, NY",
+    "size": "large"
+  },
+  {
+    "code": 39300,
+    "name": "Providence-Warwick, RI-MA",
+    "size": "very large"
+  },
+  {
+    "code": 39340,
+    "name": "Provo-Orem, UT",
+    "size": "large"
+  },
+  {
+    "code": 39580,
+    "name": "Raleigh-Cary, NC",
+    "size": "very large"
+  },
+  {
+    "code": 39740,
+    "name": "Reading, PA",
+    "size": "midsized"
+  },
+  {
+    "code": 39900,
+    "name": "Reno, NV",
+    "size": "midsized"
+  },
+  {
+    "code": 40060,
+    "name": "Richmond, VA",
+    "size": "very large"
+  },
+  {
+    "code": 40140,
+    "name": "Riverside-San Bernardino-Ontario, CA",
+    "size": "very large"
+  },
+  {
+    "code": 40220,
+    "name": "Roanoke, VA",
+    "size": "midsized"
+  },
+  {
+    "code": 40380,
+    "name": "Rochester, NY",
+    "size": "very large"
+  },
+  {
+    "code": 40420,
+    "name": "Rockford, IL",
+    "size": "midsized"
+  },
+  {
+    "code": 40900,
+    "name": "Sacramento-Roseville-Folsom, CA",
+    "size": "very large"
+  },
+  {
+    "code": 41420,
+    "name": "Salem, OR",
+    "size": "midsized"
+  },
+  {
+    "code": 41500,
+    "name": "Salinas, CA",
+    "size": "midsized"
+  },
+  {
+    "code": 41540,
+    "name": "Salisbury, MD-DE",
+    "size": "midsized"
+  },
+  {
+    "code": 41620,
+    "name": "Salt Lake City, UT",
+    "size": "very large"
+  },
+  {
+    "code": 41700,
+    "name": "San Antonio-New Braunfels, TX",
+    "size": "very large"
+  },
+  {
+    "code": 41740,
+    "name": "San Diego-Chula Vista-Carlsbad, CA",
+    "size": "very large"
+  },
+  {
+    "code": 41860,
+    "name": "San Francisco-Oakland-Berkeley, CA",
+    "size": "very large"
+  },
+  {
+    "code": 41940,
+    "name": "San Jose-Sunnyvale-Santa Clara, CA",
+    "size": "very large"
+  },
+  {
+    "code": 42020,
+    "name": "San Luis Obispo-Paso Robles, CA",
+    "size": "midsized"
+  },
+  {
+    "code": 42100,
+    "name": "Santa Cruz-Watsonville, CA",
+    "size": "midsized"
+  },
+  {
+    "code": 42200,
+    "name": "Santa Maria-Santa Barbara, CA",
+    "size": "midsized"
+  },
+  {
+    "code": 42220,
+    "name": "Santa Rosa-Petaluma, CA",
+    "size": "midsized"
+  },
+  {
+    "code": 42340,
+    "name": "Savannah, GA",
+    "size": "midsized"
+  },
+  {
+    "code": 42540,
+    "name": "Scranton--Wilkes-Barre, PA",
+    "size": "large"
+  },
+  {
+    "code": 42660,
+    "name": "Seattle-Tacoma-Bellevue, WA",
+    "size": "very large"
+  },
+  {
+    "code": 43340,
+    "name": "Shreveport-Bossier City, LA",
+    "size": "midsized"
+  },
+  {
+    "code": 43620,
+    "name": "Sioux Falls, SD",
+    "size": "midsized"
+  },
+  {
+    "code": 43780,
+    "name": "South Bend-Mishawaka, IN-MI",
+    "size": "midsized"
+  },
+  {
+    "code": 43900,
+    "name": "Spartanburg, SC",
+    "size": "midsized"
+  },
+  {
+    "code": 44060,
+    "name": "Spokane-Spokane Valley, WA",
+    "size": "large"
+  },
+  {
+    "code": 44140,
+    "name": "Springfield, MA",
+    "size": "large"
+  },
+  {
+    "code": 44180,
+    "name": "Springfield, MO",
+    "size": "midsized"
+  },
+  {
+    "code": 41180,
+    "name": "St. Louis, MO-IL",
+    "size": "very large"
+  },
+  {
+    "code": 44700,
+    "name": "Stockton, CA",
+    "size": "large"
+  },
+  {
+    "code": 45060,
+    "name": "Syracuse, NY",
+    "size": "large"
+  },
+  {
+    "code": 45220,
+    "name": "Tallahassee, FL",
+    "size": "midsized"
+  },
+  {
+    "code": 45300,
+    "name": "Tampa-St. Petersburg-Clearwater, FL",
+    "size": "very large"
+  },
+  {
+    "code": 45780,
+    "name": "Toledo, OH",
+    "size": "large"
+  },
+  {
+    "code": 45940,
+    "name": "Trenton-Princeton, NJ",
+    "size": "midsized"
+  },
+  {
+    "code": 46060,
+    "name": "Tucson, AZ",
+    "size": "very large"
+  },
+  {
+    "code": 46140,
+    "name": "Tulsa, OK",
+    "size": "large"
+  },
+  {
+    "code": 46220,
+    "name": "Tuscaloosa, AL",
+    "size": "midsized"
+  },
+  {
+    "code": 46520,
+    "name": "Urban Honolulu, HI",
+    "size": "large"
+  },
+  {
+    "code": 46540,
+    "name": "Utica-Rome, NY",
+    "size": "midsized"
+  },
+  {
+    "code": 46700,
+    "name": "Vallejo, CA",
+    "size": "midsized"
+  },
+  {
+    "code": 47260,
+    "name": "Virginia Beach-Norfolk-Newport News, VA-NC",
+    "size": "very large"
+  },
+  {
+    "code": 47300,
+    "name": "Visalia, CA",
+    "size": "midsized"
+  },
+  {
+    "code": 47380,
+    "name": "Waco, TX",
+    "size": "midsized"
+  },
+  {
+    "code": 47900,
+    "name": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+    "size": "very large"
+  },
+  {
+    "code": 48620,
+    "name": "Wichita, KS",
+    "size": "large"
+  },
+  {
+    "code": 48900,
+    "name": "Wilmington, NC",
+    "size": "midsized"
+  },
+  {
+    "code": 49180,
+    "name": "Winston-Salem, NC",
+    "size": "large"
+  },
+  {
+    "code": 49340,
+    "name": "Worcester, MA-CT",
+    "size": "large"
+  },
+  {
+    "code": 49620,
+    "name": "York-Hanover, PA",
+    "size": "midsized"
+  },
+  {
+    "code": 49660,
+    "name": "Youngstown-Warren-Boardman, OH-PA",
+    "size": "large"
+  }
+]
